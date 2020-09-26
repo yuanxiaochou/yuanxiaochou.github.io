@@ -10,7 +10,7 @@
       <p><b>籍贯：河北省秦皇岛市</b></p>
     </td>
     <td width="25%">
-      <img src="袁鹏.jpg" width="200px">      % 插入证件照代码
+      <img src="袁鹏.jpg" width="200px">
     </td>
   </tr>
 </table>
