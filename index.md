@@ -12,7 +12,7 @@
       <p><b>籍贯：河北省秦皇岛市</b></p>
     </td>
     <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">      % 插入证件照代码
+      <img src="/1600521491199.jpg" width="100%">      % 插入证件照代码
     </td>
   </tr>
 </table>
